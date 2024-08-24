@@ -3,4 +3,4 @@ eureka:
     fetch-registry: true
     register-with-eureka: true
     service-url:
-      defalutZone: http://localhost:eureka:8767
+      defalutZone: http://localhost:8761/eureka
