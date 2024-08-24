@@ -8,7 +8,7 @@ eureka:
 spring:
  datasource:
   driver-class-name: com.mysql.cj.jdbc.Driver
-  url: jdbc: mysql://localhost:3307/mock
+  url: jdbc:mysql://localhost:3307/mock
   username: root
   password: root
  jpa:
